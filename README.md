@@ -4,7 +4,7 @@
 
 # Learn Python 3
 
-[![Build Status](https://travis-ci.org/jerry-git/learn-python3.svg?branch=master)](https://travis-ci.org/jerry-git/learn-python3)
+[![Binder](http://il2binderhub.usgovvirginia.cloudapp.usgovcloudapi.net/badge_logo.svg)](http://il2binderhub.usgovvirginia.cloudapp.usgovcloudapi.net/v2/gh/selgho23/Python3Jupyter-Tutorial.git/master)
 
 ## Introduction
 
